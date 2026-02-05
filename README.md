@@ -101,6 +101,12 @@ Model yang diuji:
 - **F2-score (Train): ~0.731**
 - **F2-score (Test): ~0.703**
 
+### Actionable Insights
+- **Contract Migration** : Insentif bagi pelanggan month-to-month untuk beralih ke kontrak jangka panjang
+- **Early Tenure Loyalty** : Program loyalitas progresif (reward bulan ke-3, 6, 12) dan proactive support untuk menjaga retensi pelanggan baru.
+- **Service Quality** : Evaluasi teknis dan penyesuaian harga layanan Fiber Optic, serta penambahan bundling konten digital (Streaming).
+- **Cost Efficiency** : Alokasi anggaran promosi yang terfokus hanya pada pelanggan kategori High-Risk dan High-Value
+
 ---
 
 ## Deployment
@@ -182,3 +188,4 @@ docker run -p 8501:8501 telco-churn
 ## Acknowledgements
 - Purwadhika Digital School – Data Science & Machine Learning Program
 - IBM Telco Customer Churn (public dataset)
+
